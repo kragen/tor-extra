@@ -2,7 +2,7 @@ This is a collection of software for use with the Tor network.
 
 Software of interest may be found inside of src/
 
-Make your own private Tor network take a look at:
+Make your own private Tor network:
 
     src/misc-shell-scripts/make_private_network.sh
 
@@ -15,9 +15,8 @@ Make Google maps friendly XML for Tor and Ironkey:
     src/misc-shell-scripts/geoip-tor-gmaps.py
     src/misc-shell-scripts/geoip-ironkey-gmaps.py
 
-ttdnsd is a friendly UDP -> TCP SOCKS5 friendly DNS server:
+Use ttdnsd as a friendly UDP -> TCP SOCKS5 DNS server:
 
     src/ttdnsd
-
 
 Additional helpful scripts are welcome as patches.
