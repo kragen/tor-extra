@@ -1,0 +1,14 @@
+This is a collection of software for use with the Tor network.
+
+Software of interest may be found inside of src/
+
+To make your own private Tor network take a look at:
+
+    src/misc-shell-scripts/make_private_network.sh
+
+ttdnsd is a friendly UDP -> TCP SOCKS5 friendly DNS server:
+
+    src/ttdnsd
+
+
+Additional helpful scripts are welcome as patches.
