@@ -1,0 +1,3 @@
+[submodule "src/ttdnsd/levent"]
+	path = src/ttdnsd/levent
+	url = git://github.com/kragen/Libevent.git
